@@ -1,0 +1,6 @@
+{
+  "name"            : "Eksport danych z BDO do Excela",
+  "version"         : "0.0.0.1",
+  "description"     : "Zapisuje dane z (a) kart przekazania odpadów (b) wyszukiwania kart ewidencji odpadów do plików Excel",
+  "manifest_version": 3
+}
