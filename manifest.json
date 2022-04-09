@@ -2,5 +2,11 @@
   "name"            : "Eksport danych z BDO do Excela",
   "version"         : "0.0.0.1",
   "description"     : "Zapisuje dane z (a) kart przekazania odpadów (b) wyszukiwania kart ewidencji odpadów do plików Excel",
-  "manifest_version": 3
+  "manifest_version": 3,
+  "icons": {
+     "16": "images/bdo16.png",
+     "32": "images/bdo32.png",
+     "48": "images/bdo48.png",
+    "128": "images/bdo128.png"
+  }
 }
