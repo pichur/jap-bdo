@@ -8,5 +8,14 @@
      "32": "images/bdo32.png",
      "48": "images/bdo48.png",
     "128": "images/bdo128.png"
+  },
+  "action": {
+    "default_icon": {
+      "16": "images/bdo16.png",
+      "24": "images/bdo24.png",
+      "32": "images/bdo32.png"
+    },
+    "default_title": "BDO eksport",
+    "default_popup": "popup.html"
   }
 }
